@@ -30,3 +30,5 @@ Pusher les fichiers
 $ git push 
 ```
 
+## ENV
+Créer un fichier .env dans le dossier config contenant les variables du .envModel
